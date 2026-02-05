@@ -1,0 +1,5 @@
+sudo -E venv/bin/python app.py
+
+python3 rotate.py
+
+python3 tcp_server.py
