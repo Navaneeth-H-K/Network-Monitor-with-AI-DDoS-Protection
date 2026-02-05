@@ -1,3 +1,8 @@
+<img width="1920" height="931" alt="image" src="https://github.com/user-attachments/assets/4c18a26c-1a4f-4510-97ae-cd80f321c9ad" />
+
+<img width="1920" height="784" alt="image" src="https://github.com/user-attachments/assets/44b69e2c-29a9-4ce7-bb1a-8cb26036761d" />
+
+
 # 🔐 Network Guard  
 ### AI-Based DDoS Detection and Automated Network Defense System
 
